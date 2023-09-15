@@ -1,4 +1,8 @@
 /* font-family: 'Poppins', sans-serif; */
+/* font-family: 'Roboto', sans-serif; */
+body{
+    font-family: 'Poppins', sans-serif;
+}
 
 .navbar-expand-md .navbar-nav .nav-link {
     padding-right: var(--bs-navbar-nav-link-padding-x);
@@ -57,7 +61,7 @@
     font-family: 'Poppins';
 }
 .btn-custom{
-
+    font-family: 'Roboto';
     font-size: 16px;
 
     line-height: 18.75px;
@@ -101,7 +105,7 @@
     border: 1px solid black;
 } */
 #sign{
-    font-family: Roboto;
+    font-family: 'Roboto';
     font-size: 16px;
     line-height: normal;
     font-style: normal;
@@ -213,7 +217,7 @@
 
     color: #FFF;
 
-    font-family: Roboto;
+    font-family: 'Roboto';
 
     font-size: 16px;
 
