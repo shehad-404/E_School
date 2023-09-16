@@ -169,7 +169,10 @@ body{
 .course_section{
     margin-top: 80px;
 }
-
+.course_section img:hover{
+    transform: scale(1.1);
+    transition: .4s all ease-in-out;
+}
 .course_section h1{
     color: #413960;
     font-family: Poppins;
