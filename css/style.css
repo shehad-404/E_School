@@ -123,7 +123,8 @@ body{
 /* feature section  */
 .feature-content{
         
-    background-color: #F8FFFB;
+/*     background-color: #F8FFFB; */
+    background-color: #f0fff0; 
         
     padding: 50px 0;
         
